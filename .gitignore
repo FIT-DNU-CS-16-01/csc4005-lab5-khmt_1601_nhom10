@@ -16,7 +16,7 @@ data/*
 *.ckpt
 
 # Outputs
-outputs/*
+
 !outputs/.gitkeep
 wandb/
 
@@ -24,3 +24,5 @@ wandb/
 .DS_Store
 .vscode/
 .idea/
+
+.virtual_documents
