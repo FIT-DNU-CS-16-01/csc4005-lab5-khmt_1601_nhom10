@@ -63,10 +63,10 @@ Chèn ảnh:
 
 - Learning curves
 
-![Curve](outputs\vit_b16_head_only\curves.png)
+![Curve](outputs/vit_b16_head_only/curves.png) 
 - Confusion matrix
 
-![Confusion matrix](outputs\vit_b16_head_only\confusion_matrix.png)
+![Confusion matrix](outputs/vit_b16_head_only/confusion_matrix.png)
 ## 6. Phân tích lỗi
 
 Trả lời:
