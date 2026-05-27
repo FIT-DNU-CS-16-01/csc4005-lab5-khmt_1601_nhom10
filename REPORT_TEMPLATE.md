@@ -2,9 +2,8 @@
 
 ## 1. Thông tin nhóm/cá nhân
 
-- Họ tên:
-- Mã sinh viên:
-- Lớp:
+- Họ tên: Lê Thị Ngọc Bích, Nguyễn Mạnh Duy, Lê Trọng Thanh Tùng
+- Lớp: KHMT 16-01
 - Link GitHub repo:
 - Link W&B dashboard:
 
